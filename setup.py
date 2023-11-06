@@ -8,7 +8,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name='python_restclient',
+    name='cashifypythonrestclient',
     version='0.0.1',
     description='Rest Client for Python',
     url='https://github.com/shivank0103/python-restclient-project',
